@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PocTest/PocTest.vcxproj" Id="93766d02-9e49-48f0-8d75-82660fb2a39d" />
+</Solution>
